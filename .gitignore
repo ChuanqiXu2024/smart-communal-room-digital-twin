@@ -1,0 +1,39 @@
+# Private source material
+source-private/
+
+# JavaScript dependencies and build output
+node_modules/
+dist/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+*.local
+.vscode/
+.idea/
+
+# Logs, caches, and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.cache/
+.pnpm-store/
+.tmp/
+playwright-report/
+test-results/
+tmp/
+temp/
+
+# Operating-system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.Spotlight-V100/
+.Trashes/

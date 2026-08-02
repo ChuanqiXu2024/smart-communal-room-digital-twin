@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "sceneId": "d1aa30ae",
+  "hotspots": [
+    {
+      "hotspotId": "temperature",
+      "title": "Temperature and Comfort",
+      "position": [
+        2.374005724971767,
+        0.1713414509993272,
+        0.38573660752531413
+      ],
+      "verificationStatus": "verified",
+      "calibrationNote": "Verified on the visible front surface of the radiator."
+    },
+    {
+      "hotspotId": "occupancy",
+      "title": "Occupancy",
+      "position": [
+        0.6972853074387108,
+        0.4001254978547795,
+        -1.0362842602808375
+      ],
+      "verificationStatus": "verified",
+      "calibrationNote": "Verified on a dense visible surface of the blue communal sofa."
+    },
+    {
+      "hotspotId": "lighting",
+      "title": "Lighting",
+      "position": [
+        1.0547874159695052,
+        -1.118989273705962,
+        2.883436599269819
+      ],
+      "verificationStatus": "verified",
+      "calibrationNote": "Verified on the red curtain representing the room's principal natural-light zone."
+    },
+    {
+      "hotspotId": "appliance",
+      "title": "Communal Appliance State",
+      "position": [
+        0.5041015695552176,
+        -0.6157495764526498,
+        2.696243945339032
+      ],
+      "verificationStatus": "verified",
+      "calibrationNote": "Verified on the communal countertop water boiler."
+    },
+    {
+      "hotspotId": "engagement",
+      "title": "Viewer Engagement",
+      "position": [
+        2.1830598647600628,
+        0.04883727340391779,
+        1.1292228642813638
+      ],
+      "verificationStatus": "verified",
+      "calibrationNote": "Verified on the dining table representing the communal social and viewing focal zone."
+    }
+  ]
+}

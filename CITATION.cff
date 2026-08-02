@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this academic prototype, please cite it using the metadata below."
+title: "Smart Communal Room Digital Twin"
+authors:
+  - family-names: "Xu"
+    given-names: "Chuanqi"
+version: 0.1.0
+date-released: 2026-08-02
+repository-code: "https://github.com/ChuanqiXu2024/smart-communal-room-digital-twin"
+url: "https://chuanqixu2024.github.io/smart-communal-room-digital-twin/"
+type: software
